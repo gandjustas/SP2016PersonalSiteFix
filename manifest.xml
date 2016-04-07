@@ -1,0 +1,5 @@
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b27f79ea-4748-4d6e-815b-bc658e134e09" ResetWebServerModeOnUpgrade="Recycle" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SP2016PersonalSiteFix\Feature.xml" />
+  </FeatureManifests>
+</Solution>

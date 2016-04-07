@@ -1,0 +1,9 @@
+.OPTION Explicit
+ .Set DiskDirectory1="."
+ .Set CabinetNameTemplate="SP2016PersonalSiteFix.wsp"
+
+manifest.xml
+
+.Set DestinationDir="SP2016PersonalSiteFix"
+Elements.xml
+Feature.xml

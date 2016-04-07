@@ -1,0 +1,5 @@
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="SP2016PersonalSiteFix Feature" Hidden="TRUE" Id="72050191-5dff-4a62-9725-40ba473d9c2e" Scope="Farm">
+  <ElementManifests>
+    <ElementManifest Location="Elements.xml" />
+  </ElementManifests>
+</Feature>
